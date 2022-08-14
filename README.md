@@ -7,7 +7,7 @@
 
 <!-- 敲代码的图片 -->
 
-<div align="center" ><img style='width:50%' order-radius="100px" src="https://s3.bmp.ovh/imgs/2022/08/14/6bd1719f0ce50610.png"/></div>
+<div align="center" ><img style='width:50%;height:50%' order-radius="100px" src="https://s3.bmp.ovh/imgs/2022/08/14/6bd1719f0ce50610.png"/></div>
 
 <br>
 
